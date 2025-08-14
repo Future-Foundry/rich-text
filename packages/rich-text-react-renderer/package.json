@@ -24,7 +24,7 @@
     "lint": "tslint -t codeFrame '@(src|bin)/*.ts'"
   },
   "dependencies": {
-    "@contentful/rich-text-types": "^14.1.2"
+    "@contentful/rich-text-types": "^13.4.0"
   },
   "peerDependencies": {
     "react": "17.0.1",
